@@ -1,4 +1,4 @@
 <?php
 echo "<h1>คณากานต์ ศรีสมบูรณ์สุข</h1>";
 echo "<h2>จ๊ะโอ๋</h2>";
-echo "<src="cat.jpg">";
+echo "<img src="cat.jpg">";
